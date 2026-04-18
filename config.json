@@ -1,0 +1,68 @@
+{
+    "brands": {
+        "nike": {
+            "channel_id": 1476562512240705589,
+            "search_url": "https://www.vinted.fr/catalog?search_text=nike&catalog[]=76&order=newest_first"
+        },
+        "jordan": {
+            "channel_id": 1491886916675833937,
+            "search_url": "https://www.vinted.fr/catalog?search_text=air+jordan&catalog[]=76&order=newest_first"
+        },
+        "adidas": {
+            "channel_id": 1495142140811153472,
+            "search_url": "https://www.vinted.fr/catalog?search_text=adidas&catalog[]=76&order=newest_first"
+        },
+        "new-balance": {
+            "channel_id": 1495142233505140742,
+            "search_url": "https://www.vinted.fr/catalog?search_text=new+balance&catalog[]=76&order=newest_first"
+        },
+        "carhartt": {
+            "channel_id": 1495142309245751550,
+            "search_url": "https://www.vinted.fr/catalog?search_text=carhartt&order=newest_first"
+        },
+        "supreme": {
+            "channel_id": 1495142402992636115,
+            "search_url": "https://www.vinted.fr/catalog?search_text=supreme&order=newest_first"
+        },
+        "off-white": {
+            "channel_id": 1495142444579164281,
+            "search_url": "https://www.vinted.fr/catalog?search_text=off+white&order=newest_first"
+        },
+        "louis-vuitton": {
+            "channel_id": 1476562770919952496,
+            "search_url": "https://www.vinted.fr/catalog?search_text=louis+vuitton&order=newest_first"
+        },
+        "dior": {
+            "channel_id": 1495142559864062142,
+            "search_url": "https://www.vinted.fr/catalog?search_text=dior&order=newest_first"
+        },
+        "gucci": {
+            "channel_id": 1495142582756577430,
+            "search_url": "https://www.vinted.fr/catalog?search_text=gucci&order=newest_first"
+        },
+        "chanel": {
+            "channel_id": 1495142609734074539,
+            "search_url": "https://www.vinted.fr/catalog?search_text=chanel&order=newest_first"
+        },
+        "hermes": {
+            "channel_id": 1495142633557987491,
+            "search_url": "https://www.vinted.fr/catalog?search_text=hermes&order=newest_first"
+        },
+        "ralph-lauren": {
+            "channel_id": 1495142710963601518,
+            "search_url": "https://www.vinted.fr/catalog?search_text=ralph+lauren&order=newest_first"
+        },
+        "lacoste": {
+            "channel_id": 1495142755838726298,
+            "search_url": "https://www.vinted.fr/catalog?search_text=lacoste&order=newest_first"
+        },
+        "burberry": {
+            "channel_id": 1495142830870626314,
+            "search_url": "https://www.vinted.fr/catalog?search_text=burberry&order=newest_first"
+        },
+        "prada": {
+            "channel_id": 1495142775421669437,
+            "search_url": "https://www.vinted.fr/catalog?search_text=prada&order=newest_first"
+        }
+    }
+}
